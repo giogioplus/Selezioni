@@ -1,0 +1,19 @@
+NB: se si dovesse modificare il progetto scaricare quello che si trova in produzione, salvando quello in locale che contiene lo sviluppo per una corretta chiusura dell'applicativo
+
+Anno 2016 
+//>>27092016<< 
+ANOMALIA: se non si chiude il browser è possibile rientrare senza che la procedura richieda le credenziali
+>> Reset della Session quando si esce dalla procedura (Compilazione.aspx.cs e Valutazione.aspx.cs voce di menù Esci dalla procedura)
+Portato in test il 27/09/2016
+Portato nel server degli applicativi (test) il 27/09/2016
+da portare in produzione
+>>>>>>>>>>>>>>>>>>>
+>> fatte altre modifiche solo in sviluppo, al termine della PEO saranno da testare in ambiente di test
+>>27092016<< 
+file creati logout.aspx / logout.aspx.cs
+modificati
+Default.aspx.cs ==> richiamo della nuova pagina logout.aspx
+Compilazione.aspx.cs ==> prove sulla sessione DA TESTARE IN TEST!!!
+Valutazione.aspx.cs ==> prove sulla sessione DA TESTARE IN TEST!!!
+
+
