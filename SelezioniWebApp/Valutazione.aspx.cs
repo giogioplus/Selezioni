@@ -240,7 +240,27 @@ namespace SelezioniWebApp
             {
                 //Page.Response.Redirect("http://www.units.it/intra/modulistica/peo2011/");
                 //Page.Response.Redirect("http://www.units.it/intra/modulistica/peo2015/");
-                Page.Response.Redirect("https://www.units.it/intra/modulistica/peo/");
+                //>>27092016<< inizio
+                //Page.Response.Redirect("https://www.units.it/intra/modulistica/peo/");
+                Session.Clear(); //>>27092016<<
+                Session.Abandon(); //>>27092016<<
+                if (Request.Cookies["ASP.NET_SessionId"] != null)
+                {
+                    HttpCookie myCookie = Request.Cookies["ASP.NET_SessionId"];
+                    //myCookie.Expires = DateTime.Now.AddDays(-2d);
+                    myCookie.Value = "ExitApplication";
+                    Response.Cookies.Set(myCookie);
+                }
+                if (Request.Url.AbsoluteUri.Substring(0, 16) == "http://webtest02")
+                {
+                    Page.Response.Redirect("http://dipartimento.cicmsdev.units.it/it/content/peo");
+                }
+                else
+                {
+                    Page.Response.Redirect("https://www.units.it/intra/modulistica/peo/");
+                }
+                Context.ApplicationInstance.CompleteRequest();
+                //>>27092016<< fine
             }
             else if (e.Item.Value == "ammprev") //>>ga16102012<< inizio
             {

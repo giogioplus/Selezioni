@@ -36,7 +36,9 @@ namespace SelezioniWebApp
                     if (newSessionIdCookie != null)
                     {
                         string newSessionIdCookieValue = newSessionIdCookie.Value;
-                        if (newSessionIdCookieValue != string.Empty)
+                        //if (newSessionIdCookieValue != string.Empty ) //>>27092016<<
+                        if (newSessionIdCookieValue != string.Empty && newSessionIdCookieValue == "ExitApplication") //>>27092016<<
+
                         {
                             // This means Session was timed Out and New Session was started 
                             Response.Redirect("SessioneScaduta.aspx");
@@ -275,7 +277,28 @@ namespace SelezioniWebApp
             {
                 //Page.Response.Redirect("http://www.units.it/intra/modulistica/peo2011/");
                 //Page.Response.Redirect("http://www.units.it/intra/modulistica/peo2015/");
-                Page.Response.Redirect("https://www.units.it/intra/modulistica/peo/");
+                //>>27092016<< inizio
+                //Page.Response.Redirect("https://www.units.it/intra/modulistica/peo/");
+                Session.Clear(); //>>27092016<<
+                Session.Abandon(); //>>27092016<<
+                if (Request.Cookies["ASP.NET_SessionId"] != null)
+                {
+                    HttpCookie myCookie = Request.Cookies["ASP.NET_SessionId"];
+                    //myCookie.Expires = DateTime.Now.AddDays(-2d);
+                    myCookie.Value = "ExitApplication";
+                    Response.Cookies.Set(myCookie);
+                }
+
+                if (Request.Url.AbsoluteUri.Substring(0, 16) == "http://webtest02")
+                {
+                    Page.Response.Redirect("http://dipartimento.cicmsdev.units.it/it/content/peo");
+                }
+                else
+                {
+                    Page.Response.Redirect("https://www.units.it/intra/modulistica/peo/");
+                }
+                Context.ApplicationInstance.CompleteRequest();
+                //>>27092016<< fine
             }
             else if (e.Item.Value == "Rit" && Session["Param"].ToString() != "com")
             {

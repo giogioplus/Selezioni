@@ -14,6 +14,12 @@ namespace SelezioniWebApp
         string Param = "";
         protected void Page_Load(object sender, EventArgs e)
         {
+            //>>27092016<< inizio
+            if (Request.Cookies["ASP.Net_SessionId"] != null && Request.Cookies["ASP.Net_SessionId"].Value == "ExitApplication")
+            {
+                Response.Redirect("logout.aspx", true);
+            }
+            //>>27092016<< fine
             Session["Utente"] = null;
             Session["UtenteDip"] = null;
             try
