@@ -85,6 +85,14 @@ public class CustomExceptions
             this.CustomMessage = "La sessione è scaduta, si prega di uscire dalla procedura!";
         }
     }
+    public class ChiudereSessione : BaseStepException
+    {
+        public ChiudereSessione()
+        {
+            this.CustomMessage = "Precedentemente sei uscito dall\\'applicativo PEO senza chiudere il BROWSER utilizzato." + "\\n" + "Per uscire correttamente dalla procedura chiudi il browser " + "\\n" + "e rientra nell\\'applicativo PEO";
+        }
+    }
+
     public class UtenteNonAbilitato : BaseStepException
     {
         public UtenteNonAbilitato()
