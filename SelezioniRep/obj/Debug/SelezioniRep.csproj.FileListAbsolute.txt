@@ -1,0 +1,58 @@
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\clDB.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniObjects.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\accesso_db_odp.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\CustomExceptions.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\clDB.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniObjects.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.dll.config
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.DettaglioRep.resources
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepDom.resources
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepVal.resources
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.dll.config
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\clDB.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniObjects.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\accesso_db_odp.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\clDB.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniObjects.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\accesso_db_odp.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.DettaglioRep.resources
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepDom.resources
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepVal.resources
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniRep\bin\Debug\accesso_db_odp.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepValArchivio.resources
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepDomArchivio.resources
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.DettaglioRepArchivio.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.dll.config
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniRep.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\clDB.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniObjects.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\SelezioniObjects.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\bin\Debug\clDB.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.csprojResolveAssemblyReference.cache
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.DettaglioRepArchivio.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepValArchivio.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepDomArchivio.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.DettaglioRep.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepDom.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.SchedaRepVal.resources
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.csproj.GenerateResource.Cache
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniRep\obj\Debug\SelezioniRep.pdb

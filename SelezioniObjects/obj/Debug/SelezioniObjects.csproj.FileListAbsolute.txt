@@ -1,0 +1,14 @@
+c:\users\8068\Documents\VS2010\Projects\Selezioni\SelezioniObjects\bin\Debug\SelezioniObjects.dll
+c:\users\8068\Documents\VS2010\Projects\Selezioni\SelezioniObjects\bin\Debug\SelezioniObjects.pdb
+c:\users\8068\Documents\VS2010\Projects\Selezioni\SelezioniObjects\obj\Debug\ResolveAssemblyReference.cache
+c:\users\8068\Documents\VS2010\Projects\Selezioni\SelezioniObjects\obj\Debug\SelezioniObjects.dll
+c:\users\8068\Documents\VS2010\Projects\Selezioni\SelezioniObjects\obj\Debug\SelezioniObjects.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\bin\Debug\SelezioniObjects.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\bin\Debug\SelezioniObjects.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\obj\Debug\SelezioniObjects.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\obj\Debug\SelezioniObjects.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\bin\Debug\SelezioniObjects.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\bin\Debug\SelezioniObjects.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\obj\Debug\SelezioniObjects.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniObjects\obj\Debug\SelezioniObjects.pdb

@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2500A082-4BA3-45A7-B801-7C5B9ECA3CF0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>SelezioniRep</RootNamespace>
+    <AssemblyName>SelezioniRep</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="accesso_db_odp">
+      <HintPath>..\..\accesso_db_odp\accesso_db_odp\bin\Release\accesso_db_odp.dll</HintPath>
+    </Reference>
+    <Reference Include="clDB, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\clDB\obj\Release\clDB.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Telerik.Reporting, Version=6.0.12.215, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
+    <Reference Include="Telerik.Reporting.Design, Version=6.0.12.215, Culture=neutral, PublicKeyToken=a9d7983dfcc261be" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DettaglioRepArchivio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DettaglioRepArchivio.Designer.cs">
+      <DependentUpon>DettaglioRepArchivio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchedaRepValArchivio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SchedaRepValArchivio.Designer.cs">
+      <DependentUpon>SchedaRepValArchivio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchedaRepDomArchivio.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SchedaRepDomArchivio.Designer.cs">
+      <DependentUpon>SchedaRepDomArchivio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DatiRep.cs" />
+    <Compile Include="DatiRepArchivio.cs" />
+    <Compile Include="DettaglioRep.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="DettaglioRep.Designer.cs">
+      <DependentUpon>DettaglioRep.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="SchedaRepDom.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SchedaRepDom.Designer.cs">
+      <DependentUpon>SchedaRepDom.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SchedaRepVal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="SchedaRepVal.Designer.cs">
+      <DependentUpon>SchedaRepVal.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SelezioniObjects\SelezioniObjects.csproj">
+      <Project>{296C15C6-E08B-472B-A907-B4722F55AD57}</Project>
+      <Name>SelezioniObjects</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="DettaglioRepArchivio.resx">
+      <DependentUpon>DettaglioRepArchivio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchedaRepValArchivio.resx">
+      <DependentUpon>SchedaRepValArchivio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchedaRepDomArchivio.resx">
+      <DependentUpon>SchedaRepDomArchivio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DettaglioRep.resx">
+      <DependentUpon>DettaglioRep.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchedaRepDom.resx">
+      <DependentUpon>SchedaRepDom.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SchedaRepVal.resx">
+      <DependentUpon>SchedaRepVal.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <Content Include="Images\intestazione.jpg" />
+    <Content Include="Images\smallintestazione.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

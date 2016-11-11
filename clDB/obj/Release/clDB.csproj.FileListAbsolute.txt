@@ -1,0 +1,34 @@
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\obj\Release\ResolveAssemblyReference.cache
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\clDB.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\clDB.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\accesso_db_odp.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\SelezioniObjects.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\CustomExceptions.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\SelezioniObjects.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\bin\Release\accesso_db_odp.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\obj\Release\clDB.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\clDB\obj\Release\clDB.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\clDB.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\clDB.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\accesso_db_odp.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\SelezioniObjects.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\accesso_db_odp.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\SelezioniObjects.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\obj\Release\clDB.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\clDB\obj\Release\clDB.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\clDB.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\clDB.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\CustomExceptions.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\SelezioniObjects.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\Oracle.DataAccess.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\CustomExceptions.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\SelezioniObjects.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\obj\Release\clDB.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\obj\Release\clDB.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\obj\Release\clDB.csprojResolveAssemblyReference.cache
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\accesso_db_odp.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\clDB\bin\Release\accesso_db_odp.pdb

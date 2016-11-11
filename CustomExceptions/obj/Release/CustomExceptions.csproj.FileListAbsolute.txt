@@ -1,0 +1,14 @@
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\bin\Release\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\bin\Release\CustomExceptions.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\obj\Release\ResolveAssemblyReference.cache
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\obj\Release\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\obj\Release\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\bin\Release\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\bin\Release\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Release\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Release\CustomExceptions.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\bin\Release\CustomExceptions.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\bin\Release\CustomExceptions.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Release\CustomExceptions.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Release\CustomExceptions.pdb

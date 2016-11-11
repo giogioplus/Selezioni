@@ -1,0 +1,10 @@
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\bin\Debug\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\obj\Debug\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\CustomExceptions\obj\Debug\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\bin\Debug\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\bin\Debug\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Debug\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\CustomExceptions\obj\Debug\CustomExceptions.pdb

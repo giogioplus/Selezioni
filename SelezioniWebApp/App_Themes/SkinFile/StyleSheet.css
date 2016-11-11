@@ -1,0 +1,281 @@
+﻿/* CORPO */
+div#corpo
+{
+	min-height: 4px;
+}
+
+div#corpo table.allineacellehtml
+{
+	text-align: left;
+	border: 2px solid black;
+	border-collapse: separate;
+	border-spacing: 2px;
+	width: 100%;
+}
+
+div#corpo table.allineacellehtml td
+{
+	padding: 10px;
+	vertical-align: top;
+	border: 1px solid black;
+}
+
+div#corpo table.allineacellehtml td.etichetta
+{
+	vertical-align: middle; /*text-align: center;*/
+	border: none;
+}
+
+div#corpo table.allineacellehtmlautore
+{
+	text-align: left;
+	border: none;
+	/*line-height: 2px; */
+}
+
+div#corpo table.allineacellehtmlautore td
+{
+	/*padding: 10px;*/
+	padding: 0px;
+	vertical-align: top;
+	border: none;
+}
+
+div#corpo table.allineacellehtmlautore td.etichetta
+{
+	vertical-align: middle;
+	text-align: left;
+	border: none;
+	font-size: 100%;
+}
+
+.titolo
+{
+	font-weight: bold;
+	font-style: italic;
+}
+
+.descrizione
+{
+	font-weight: bold;
+	font-style: italic;
+	font-size: 120%;
+}
+
+.nota
+{
+	font-style: italic;	
+}
+
+div.marginesx
+{
+	float: left;
+	min-height: 10px;
+	width: 10%;
+}
+
+div.marginesxPunteggi
+{
+	float: left;
+	width: 30%;
+	height: 100%;
+	border-collapse: separate;
+}
+.margini
+{
+	margin-top: 20px;
+	margin-left: 70px;
+}
+.nomargini 
+{
+	margin-top: 20px;
+	margin-left: 0px;
+}
+
+div#corpo table.tabellarisposte
+{
+	border: 1px black;
+	border-collapse: separate;
+	border-style: solid;
+	width: 80%;
+	/*padding-top: 2px;*/
+	padding-bottom: 2px;
+	/*padding-left: 5px;
+	margin-top: 20px;*/
+	margin-left: 70px;
+}
+
+div#corpo table.tabellarisposte td.descr
+{
+	font-weight: normal;
+	padding-left: 10px;
+	padding-bottom: 5px;
+}
+
+div#corpo table.tabellarisposte td.bordo
+{
+	/*border-collapse: separate;*/
+	padding-left: 0px;
+	border-bottom: solid;
+	border-width: thin;
+}
+
+div#corpo table.tabellarisposte td.bordomax
+{
+	/*border-collapse: separate;*/
+	padding-left: 0px;
+	border-bottom: solid;
+	border-width: medium;
+	
+}
+
+div#corpo table.tabellarisposte td.scelta
+{
+	vertical-align: middle;
+}
+
+div#corpo table.tabellarisposte td.valutazione
+{
+	font-weight: normal;
+	padding-left: 30%;
+	padding-bottom: 5px;
+}
+
+div#corpo table.tabellarisposte td.punteggio
+{
+	font-weight: bold;
+	padding-left: 30%;
+	padding-bottom: 5px;
+}
+
+input.RispTesto
+{
+	width: 90%;
+}
+
+input.RispData
+{
+	width: 70px;
+}
+
+input.RispAreaTesto
+{
+	width: 100%;
+}
+
+.RispUpl
+{
+	width: 500px;
+}
+
+/* finestra di dlg per MyControl */
+.modalpopup
+{
+	background-color:#fff;
+	font-family: arial,helvetica,clean,sans-serif;
+    font-size: small;
+}
+
+.outerPopup 
+{
+    background-color:transparent;  
+    padding:1em 6px;
+}
+
+.container
+{
+    width: 300px;
+} 
+
+.header
+{
+    background: url(../../Images/sprite.png) repeat-x 0px -1300px ;	
+    cursor: hand;
+    padding: 3px 10px;			 
+} 
+
+.header .msg
+{
+    font-weight: bold;
+}         
+
+.body
+{
+    background-color: #f2f2f2;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 30px;
+} 
+
+.body .msg
+{
+    background: url(../../Images/sprite.png) no-repeat 0px -1150px;	
+    float: left;
+    padding-left: 22px;
+}  
+
+.body .msgerror
+{
+    background: url(../../Images/sprite.png) no-repeat 0px -1900px;	
+    float: left;
+    padding-left: 22px;
+}  
+
+.body .msgsuccess
+{
+    background: url(../../Images/sprite.png) no-repeat 0px -1000px;	
+    float: left;
+    padding-left: 22px;
+}  
+
+.footer
+{
+    background-color: #f2f2f2;
+    text-align:right;
+    padding-bottom: 8px;
+    padding-right: 8px;
+    border-bottom-color:#808080;
+} 
+
+.close
+{
+    right: 7px;	
+    background: url(../../Images/sprite.png) no-repeat 0px -300px;	
+    width: 25px;	
+    cursor: pointer;	
+    position: absolute;	
+    top: 7px;	
+    height: 15px;
+}
+
+.modalBackground 
+{
+    background-color: Gray;
+    filter:alpha(opacity=50);
+    opacity:0.5;
+}     
+
+.modalButton
+{
+	width: 40px;
+	bottom: 7px;
+}
+
+.success {
+    color: #4F8A10;
+    background-color: #DFF2BF;
+    background-image:url(../../Images/error.png);
+}
+/* fine finestra di dlg per MyControl */
+
+/* oggetto calendario */
+.MyCalendar .ajax__calendar_container {
+    border:1px solid #646464;
+    background-color: Window;
+    color:  Black;
+}
+
+/* gestione menu per IE8 */
+.menuvoce {
+	z-index: 100;
+}  

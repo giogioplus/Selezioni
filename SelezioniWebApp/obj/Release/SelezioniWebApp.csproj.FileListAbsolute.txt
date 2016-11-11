@@ -1,0 +1,47 @@
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\obj\Release\ResolveAssemblyReference.cache
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniWebApp.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniWebApp.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\clDB.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\CustomExceptions.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniObjects.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniRep.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\clDB.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\CustomExceptions.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniObjects.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniRep.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.dll
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.pdb
+C:\Users\8068\Documents\VS2010\Projects\Selezioni\SelezioniWebApp\bin\accesso_db_odp.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniWebApp.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniWebApp.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\accesso_db_odp.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\clDB.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\CustomExceptions.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniObjects.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniRep.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\CustomExceptions.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\accesso_db_odp.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\clDB.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniObjects.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniRep.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniWebApp.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniWebApp.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\clDB.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\CustomExceptions.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniObjects.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\CustomExceptions.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\clDB.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniObjects.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.csprojResolveAssemblyReference.cache
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\obj\Release\SelezioniWebApp.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\AjaxControlToolkit.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\MyControls.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\MyControls.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\accesso_db_odp.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\accesso_db_odp.pdb
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniRep.dll
+C:\Users\9230\Documents\Visual Studio 2010\Projects\Selezioni\SelezioniWebApp\bin\SelezioniRep.pdb

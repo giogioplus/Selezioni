@@ -1,0 +1,73 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Layout.master.cs" Inherits="Layout" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Gestione Selezioni</title>
+    <asp:ContentPlaceHolder ID="cph_head_lnk" runat="server">
+    </asp:ContentPlaceHolder>
+
+<link rel="stylesheet" type="text/css" href="https://www.units.it:443/css/main.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.units.it:443/css/httpsmain.css" media="screen" />
+<link rel="stylesheet" type="text/css" href="https://www.units.it:443/css/printmain.css" media="print" />
+<link rel="stylesheet" type="text/css" href="https://www.units.it:443/css/menutop.css" media="screen" />
+<link rel="alternate stylesheet" title="small" type="text/css" href="https://www.units.it:443/css/small.css" media="screen" />
+<link rel="alternate stylesheet" title="large" type="text/css" href="https://www.units.it:443/css/large.css" media="screen" />
+<link rel="alternate stylesheet" title="xlarge" type="text/css" href="https://www.units.it:443/css/xlarge.css" media="screen" />
+ <script type="text/javascript" src="https://www.units.it:443/global/styleswitcher.js"></script>
+ <script type="text/javascript" src="https://www.units.it:443/global/menutendina.js"></script>
+<link rel="alternate" type="application/rss+xml" title="Agenda Eventi" href="http://www.units.it/feed/rssfeed.php/?tipo=7" />
+<link rel="alternate" type="application/rss+xml" title="Comunicati stampa" href="http://www.units.it/feed/rssfeed.php/?tipo=2" />
+<link rel="alternate" type="application/rss+xml" title="Avvisi" href="http://www.units.it/feed/rssfeed.php/?tipo=3" />
+
+    <link href="App_Themes/SkinFile/StyleSheet.css" rel="stylesheet" type="text/css" />
+    <link href="App_Themes/SkinFile/cssSelezioni.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <%  System.Net.HttpWebRequest request;
+        if (Request.Url.AbsoluteUri.Substring(0, 5) == "https")
+        {
+            request = (System.Net.HttpWebRequest)System.Net.HttpWebRequest.Create("https://www.units.it/grafica4out/ute/amm_body");
+        }
+        else
+        {
+            request = (System.Net.HttpWebRequest)System.Net.HttpWebRequest.Create("http://www.units.it/grafica4out/ute/amm_body");
+        }
+        string response;
+        using (System.IO.Stream stream = request.GetResponse().GetResponseStream())
+        {
+            using (System.IO.StreamReader reader = new System.IO.StreamReader(stream))
+            {
+                response = reader.ReadToEnd();
+            }
+        }
+        Response.Write(response);
+    %>
+    <form id="form1" runat="server">
+    <div id="corpo">
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    </form>
+    <%         if (Request.Url.AbsoluteUri.Substring(0, 5) == "https")
+               {
+                   request = (System.Net.HttpWebRequest)System.Net.HttpWebRequest.Create("https://www.units.it/grafica4out/ute/amm_footer");
+               }
+               else
+               {
+                   request = (System.Net.HttpWebRequest)System.Net.HttpWebRequest.Create("http://www.units.it/grafica4out/ute/amm_footer");
+               }
+               using (System.IO.Stream stream = request.GetResponse().GetResponseStream())
+               {
+                   using (System.IO.StreamReader reader = new System.IO.StreamReader(stream))
+                   {
+                       response = reader.ReadToEnd();
+                   }
+               }
+               Response.Write(response);
+               Response.Write("</div>");
+    %>
+</body>
+</html>

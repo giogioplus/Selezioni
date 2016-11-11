@@ -1,0 +1,5 @@
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\ArchivioSelezioniRep.cs\bin\Release\ArchivioSelezioniRep.cs.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\ArchivioSelezioniRep.cs\bin\Release\ArchivioSelezioniRep.cs.pdb
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\ArchivioSelezioniRep.cs\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\ArchivioSelezioniRep.cs\obj\Release\ArchivioSelezioniRep.cs.dll
+C:\Documents and Settings\9230\My Documents\Visual Studio 2010\Projects\Selezioni\ArchivioSelezioniRep.cs\obj\Release\ArchivioSelezioniRep.cs.pdb
